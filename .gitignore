@@ -1,0 +1,5 @@
+*.tlog
+*.lastbuildstate
+CountIcalHours/CountIcalHours/Debug/vc110.idb
+CountIcalHours/CountIcalHours/CountIcalHours.vcxproj.filters
+CountIcalHours/CountIcalHours.sdf
